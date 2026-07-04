@@ -1,18 +1,122 @@
-# 💫 About Me:
-I'm an enthusiastic Computer Science student who enjoys building websites, learning software development, solving coding problems and creating real-world projects.<br><br>My goal is to become a skilled Full Stack Developer while continuously improving my problem-solving skills.
+<h1 align="center">Hi 👋, I'm Thiyagarasan C</h1>
 
+<h3 align="center">🚀 Aspiring Full Stack Developer | Computer Science Student | Lifelong Learner</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thiyagu_638) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/THIYAGARASAN C) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thiyagarasan6380@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=thiyagarasan6380-alt&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=thiyagarasan6380-alt&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=thiyagarasan6380-alt&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E50914&center=true&vCenter=true&width=650&lines=Aspiring+Full+Stack+Developer;Learning+React+%7C+Java+%7C+DSA+%7C+DBMS;Building+Projects+and+Improving+Every+Day;Welcome+to+my+GitHub+Profile!" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=thiyagarasan6380-alt&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+🎓 Computer Science Student
+
+💻 Currently learning *React, Java, DSA, DBMS, Git & GitHub*
+
+🌱 Building real-world projects to improve my development skills
+
+🎯 Goal: Become a skilled *Full Stack Developer*
+
+⚡ I enjoy solving problems, learning new technologies, and creating modern web applications.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/thiyagarasan-c-25bb2b37a/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/thiyagu_638" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:thiyagarasan6380@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,java,git,github,vscode"/>
+
+</p>
+
+---
+
+## 🚀 Currently Learning
+
+- ⚛️ React.js
+- ☕ Java
+- 📚 Data Structures & Algorithms
+- 🗄️ Database Management System (DBMS)
+- 🌐 Full Stack Development
+- 🔧 Git & GitHub
+
+---
+
+## 📂 Featured Projects
+
+🔹 Personal Portfolio Website
+
+🔹 React Practice Projects
+
+🔹 Java Console Applications
+
+(More exciting projects coming soon...)
+
+---
+
+## 🏆 Certifications
+
+🏅 IBM SkillsBuild Badge
+
+🏅 Coursera Certifications
+
+🏅 More certifications coming soon...
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thiyagarasan6380-alt&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=thiyagarasan6380-alt&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiyagarasan6380-alt&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=thiyagarasan6380-alt&label=Profile%20Views&color=E50914&style=for-the-badge"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+<br>
+
+🚀 Let's build something amazing together.
+
+</h3>

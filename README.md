@@ -1,37 +1,113 @@
-[8:40 pm, 4/7/2026] T--yagoo🌎: <h1 align="center">Hi 👋, I'm Thiyagarasan C</h1>
+<p align="center">
+  <img src="assets/banner.png" alt="Thiyagarasan Banner" width="100%">
+</p>
+
+<h1 align="center">Hi 👋, I'm Thiyagarasan C</h1>
 
 <h3 align="center">
-🚀 Aspiring Full Stack Developer | Computer Science Student | Open Source Enthusiast
+Aspiring Full Stack Developer • Computer Science Student • Lifelong Learner
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=E50914&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Full+Stack+Developer;Learning+React+%7C+Java+%7C+DSA+%7C+DBMS;Building+Projects+Every+Day;Always+Learning+Something+New+🚀"/>
+
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-E50914?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Learning-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Location-India-blue?style=for-the-badge"/>
+
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 🎓 Computer Science Student
 
-💻 Passionate about Full Stack Development
+💻 Passionate about building modern web applications.
 
-🌱 Currently Learning
-- ⚛️ React.js
-- ☕ Java
-- 📚 Data Structures & Algorithms
-- 🗄️ Database Management System
-- 🌐 Git & GitHub
+🌱 Currently learning
 
-🎯 Goal
+- React.js
+- Java
+- Data Structures & Algorithms
+- Database Management System
+- Git & GitHub
+
+🎯 *Goal*
 
 Become a skilled Full Stack Developer and contribute to impactful real-world software.
 
 ---
 
-# 🌐 Connect With Me
+## 💻 Tech Stack
 
-<p align="left">
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,java,mysql,git,github,vscode"/>
+
+</p>
+
+---
+
+## 📚 Learning Progress
+
+| Technology | Progress |
+|------------|----------|
+| HTML | ⭐⭐⭐⭐⭐ |
+| CSS | ⭐⭐⭐⭐⭐ |
+| JavaScript | ⭐⭐⭐⭐☆ |
+| React | ⭐⭐⭐☆☆ |
+| Java | ⭐⭐⭐☆☆ |
+| DBMS | ⭐⭐⭐☆☆ |
+| DSA | ⭐⭐⭐☆☆ |
+| Git & GitHub | ⭐⭐⭐⭐☆ |
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Personal Portfolio Website
+
+Responsive portfolio built using *HTML & CSS*
+
+🔗 Repository
+
+https://github.com/thiyagarasan6380-alt/Portfolio
+
+---
+
+### ⚛️ React Learning Projects
+
+Building projects while learning React fundamentals.
+
+---
+
+### ☕ Java Applications
+
+Console-based Java programs demonstrating OOP concepts.
+
+---
+
+### 📚 DSA Practice
+
+Problem-solving programs and implementations.
+
+---
+
+## 🏆 Certifications
+
+🏅 IBM SkillsBuild
+
+🏅 Coursera Certifications
+
+🏅 More certifications coming soon...
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/thiyagarasan-c-25bb2b37a/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -49,101 +125,24 @@ Become a skilled Full Stack Developer and contribute to impactful real-world sof
 
 ---
 
-# 💻 Tech Stack
+## 🎯 2026 Goals
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,java,git,github,vscode,mysql"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-text
-HTML5         ████████████████████ 100%
-
-CSS3          ████████████████████ 100%
-
-JavaScript    ███████████████░░░░░ 75%
-
-React         ███████████░░░░░░░░░ 55%
-
-Java          ██████████████░░░░░░ 70%
-
-DSA           ██████████░░░░░░░░░░ 50%
-
-DBMS          ████████████░░░░░░░░ 60%
-
-Git & GitHub  █████████████████░░░ 85%
-
+- ✅ Master React
+- ✅ Learn Node.js & Express
+- ✅ Build 10+ Projects
+- ✅ Improve DSA Skills
+- ✅ Contribute to Open Source
+- ✅ Secure a Software Development Internship
 
 ---
 
-# 🚀 Featured Projects
+## 📈 GitHub
 
-🌐 Personal Portfolio Website
-
-⚛️ React Learning Projects
-
-☕ Java Console Applications
-
-📚 DSA Practice Programs
-
-More exciting projects are coming soon...
+📌 My repositories document my learning journey through projects, experiments, and continuous improvement.
 
 ---
 
-# 🏆 Certifications
-
-🏅 IBM SkillsBuild
-
-🏅 Coursera Certifications
-
-🏅 More Coming Soon...
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiyagarasan6380-alt&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiyagarasan6380-alt&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiyagarasan6380-alt&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiyagarasan6380-alt&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thiyagarasan6380-alt&theme=github_dark&utcOffset=5.5"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-> Enable GitHub Actions to generate this automatically.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/thiyagarasan6380-alt/thiyagarasan6380-alt/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 📈 Profile Views
+## 👀 Profile Views
 
 <p align="center">
 
@@ -153,17 +152,18 @@ More exciting projects are coming soon...
 
 ---
 
-# 💡 Quote
+## 💡 Favorite Quote
 
-> "The best way to learn programming is by building projects."
+> *"The best way to learn programming is by building projects."*
 
 ---
 
 <h2 align="center">
 
-⭐ Thanks for visiting my profile ⭐
+⭐ Thanks for visiting my profile!
 
-🚀 Let's Build Something Amazing Together!
+If you enjoy my work, consider giving my repositories a ⭐.
+
+Happy Coding! 🚀
 
 </h2>
-[8:52 pm, 4/7/2026] T--yagoo🌎: 

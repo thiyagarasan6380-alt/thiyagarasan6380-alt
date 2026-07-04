@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thiyagarasan C</h1>
+[8:40 pm, 4/7/2026] T--yagoo🌎: <h1 align="center">Hi 👋, I'm Thiyagarasan C</h1>
 
 <h3 align="center">
 🚀 Aspiring Full Stack Developer | Computer Science Student | Open Source Enthusiast
@@ -166,3 +166,4 @@ More exciting projects are coming soon...
 🚀 Let's Build Something Amazing Together!
 
 </h2>
+[8:52 pm, 4/7/2026] T--yagoo🌎: 

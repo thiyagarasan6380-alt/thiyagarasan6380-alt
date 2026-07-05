@@ -162,7 +162,7 @@ Problem-solving programs and implementations.
 
   Thanks for visiting my profile!
 
-If you enjoy my work, consider giving my repositories a .
+If you enjoy my work, consider giving my repositories a 🤟 .
 
 Happy Coding! 🚀
 

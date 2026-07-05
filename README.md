@@ -57,11 +57,11 @@ Become a skilled Full Stack Developer and contribute to impactful real-world sof
 | HTML | ⭐⭐⭐⭐⭐ |
 | CSS | ⭐⭐⭐⭐⭐ |
 | JavaScript | ⭐⭐⭐⭐☆ |
-| React | ⭐⭐⭐☆☆ |
-| Java | ⭐⭐⭐☆☆ |
-| DBMS | ⭐⭐⭐☆☆ |
-| DSA | ⭐⭐⭐☆☆ |
-| Git & GitHub | ⭐⭐⭐⭐☆ |
+| React | ⭐⭐☆☆☆ |
+| Java | ⭐⭐☆☆☆ |
+| DBMS | ⭐⭐☆☆☆ |
+| DSA | ⭐⭐☆☆☆ |
+| Git & GitHub | ⭐⭐⭐☆☆ |
 
 ---
 
@@ -160,9 +160,9 @@ Problem-solving programs and implementations.
 
 <h2 align="center">
 
-⭐ Thanks for visiting my profile!
+  Thanks for visiting my profile!
 
-If you enjoy my work, consider giving my repositories a ⭐.
+If you enjoy my work, consider giving my repositories a .
 
 Happy Coding! 🚀
 

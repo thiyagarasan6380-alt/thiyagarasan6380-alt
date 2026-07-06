@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner2.png" alt="Thiyagarasan Banner" width="100%">
+  <img src="assets/banner2.png" alt="Thiyagarasan Banner" width="100%" height="75%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Thiyagarasan C</h1>

@@ -73,8 +73,6 @@ fun_fact: I believe the best way to learn code is to build with it
 
 </div>
 
-> ⚠️ Note: The activity-graph widget was removed here — its shared public server has been unreliable/down for many users lately. The snake animation below is a more dependable alternative.
-
 ## 🐍 Contribution Snake
 
 <div align="center">

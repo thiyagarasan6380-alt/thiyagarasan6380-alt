@@ -121,8 +121,8 @@ Problem-solving implementations across arrays, trees, graphs, and more.
 
 ## 🎯 2026 Roadmap
 
-- [x] Master React
-- [x] Learn Node.js & Express
+- [ ] Master React
+- [ ] Learn Node.js & Express
 - [ ] Build 10+ Projects
 - [ ] Improve DSA Skills
 - [ ] Contribute to Open Source

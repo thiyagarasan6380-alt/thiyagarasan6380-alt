@@ -1,0 +1,35 @@
+<svg width="320" height="320" viewBox="0 0 320 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="frame">
+      <rect width="320" height="320" rx="14"/>
+    </clipPath>
+    <linearGradient id="scanGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00fff2" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00fff2" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#00fff2" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="revealMask">
+      <rect x="0" y="0" width="320" height="0" fill="white">
+        <animate attributeName="height" values="0;320;320;0" keyTimes="0;0.5;0.9;1" dur="4s" repeatCount="indefinite"/>
+      </rect>
+    </mask>
+  </defs>
+
+  <!-- background -->
+  <rect width="320" height="320" rx="14" fill="#0d1117"/>
+
+  <g clip-path="url(#frame)">
+    <!-- 🔁 REPLACE the href below with the raw GitHub URL of your photo -->
+    <!-- e.g. https://raw.githubusercontent.com/thiyagarasan6380-alt/thiyagarasan6380-alt/main/assets/profile.jpg -->
+    <image href="REPLACE_WITH_YOUR_PHOTO_URL" x="0" y="0" width="320" height="320"
+           preserveAspectRatio="xMidYMid slice" mask="url(#revealMask)"/>
+
+    <!-- moving scan line -->
+    <rect x="0" y="0" width="320" height="4" fill="url(#scanGrad)">
+      <animate attributeName="y" values="0;316;0" dur="4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- neon border -->
+  <rect x="1" y="1" width="318" height="318" rx="14" fill="none" stroke="#00fff2" stroke-width="2" opacity="0.85"/>
+</svg>

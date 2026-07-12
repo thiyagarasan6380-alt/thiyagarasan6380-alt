@@ -8,7 +8,7 @@
 <tr>
 <td width="330" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/thiyagarasan6380-alt/thiyagarasan6380-alt/main/assets/scan-card.svg" width="300"/>
+<img src="https://raw.githubusercontent.com/thiyagarasan6380-alt/thiyagarasan6380-alt/main/assets/hex-card.svg" width="300"/>
 
 </td>
 <td width="480" valign="top">

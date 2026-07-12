@@ -17,7 +17,7 @@
 
   <!-- photo clipped to hexagon -->
   <g clip-path="url(#hexClip)">
-    <image href="https://github.com/thiyagarasan6380-alt/thiyagarasan6380-alt/blob/main/assets/file_0000000087f8622fba014c319571b9d9.png"
+    <image href="https://raw.githubusercontent.com/thiyagarasan6380-alt/thiyagarasan6380-alt/refs/heads/main/assets/file_0000000087f8622fba014c319571b9d9.png"
            x="0" y="0" width="320" height="320" preserveAspectRatio="xMidYMid slice"/>
   </g>
 

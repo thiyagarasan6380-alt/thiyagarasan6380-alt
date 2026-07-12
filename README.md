@@ -8,9 +8,7 @@
 <tr>
 <td width="330" align="center" valign="top">
 
-<img src="./assets/scan-card.svg" width="300"/>
-
-<sub>Replace <code>REPLACE_WITH_YOUR_PHOTO_URL</code> inside scan-card.svg with your photo's raw GitHub URL</sub>
+<img src="https://raw.githubusercontent.com/thiyagarasan6380-alt/thiyagarasan6380-alt/main/assets/scan-card.svg" width="300"/>
 
 </td>
 <td width="480" valign="top">

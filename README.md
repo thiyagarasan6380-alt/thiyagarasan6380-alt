@@ -1,40 +1,54 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Hi%20There!%20I'm%20Thiyagarasan%20C&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20CS%20Student%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=E50914&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=Building+Modern+Web+Apps+%F0%9F%9A%80;Learning+React.js+%E2%9A%9B%EF%B8%8F;Mastering+Java+%26+DSA+%E2%98%95;Open+to+Internships+%F0%9F%92%BC" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-E50914?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Open%20To%20Internships-success?style=for-the-badge&logo=handshake&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-India-blue?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Thiyagarasan%20C&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 </div>
 
-<br/>
+<table align="center">
+<tr>
+<td width="330" align="center" valign="top">
 
-## 💻 whoami
+<img src="./assets/scan-card.svg" width="300"/>
+
+<sub>Replace <code>REPLACE_WITH_YOUR_PHOTO_URL</code> inside scan-card.svg with your photo's raw GitHub URL</sub>
+
+</td>
+<td width="480" valign="top">
 
 ```yaml
-$ whoami
+SYSTEM INFO
+────────────────────────────
+$whoami   : thiyagarasan
+Subject   : Thiyagarasan C
+Role      : Aspiring Full-Stack Dev
+Origin    : Tamil Nadu, India
+Education : B.Tech CS Student
+Status    : Building • Learning • Shipping
+ToolChain : VS Code, Git, Docker, Postman
 
-name        : Thiyagarasan C
-role        : Computer Science Student
-now         : Learning React.js, Java, DSA & DBMS
-edu         : B.Tech, Computer Science
-goal        : Become a skilled Full Stack Developer 🚀
+Core Lang     : Java, C, JavaScript
+Core Frontend : React, HTML, CSS, JavaScript
+Core Backend  : Node.js (learning), Java
+Core Database : MySQL
+Core Infra    : Git, GitHub
 
-stack:
-  frontend  : HTML, CSS, JavaScript, React
-  backend   : Java, MySQL
-  tools     : Git, GitHub, VS Code
+────────────────────────────
+Contact
+Grid Mail      : thiyagarasan6380@gmail.com
+Grid LinkedIn  : /in/thiyagarasan-c-25bb2b37a
+Grid GitHub    : thiyagarasan6380-alt
+Grid Instagram : thiyagu_638
 
-highlights:
-  - Building real-world web projects while learning full stack dev
-  - Practicing DSA consistently to sharpen problem-solving skills
-  - Actively exploring open source contributions
+────────────────────────────
+Live State
+> See live GitHub stats below in README ↓
 ```
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
 
@@ -88,14 +102,6 @@ highlights:
 
 </div>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/thiyagarasan6380-alt/thiyagarasan6380-alt/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-> 💡 Requires the [platane/snk](https://github.com/Platane/snk) GitHub Action set up in this repo to auto-generate.
-
 ## 🚀 Featured Projects
 
 <details open>
@@ -143,19 +149,12 @@ Problem-solving implementations across arrays, trees, graphs, and more.
 - [ ] Contribute to Open Source
 - [ ] Secure a Software Development Internship
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 <div align="center">
 
 ### Thanks for visiting my profile! ⚡
-
-If you enjoy my work, consider giving my repositories a ⭐
-
-**Happy Coding! 🚀**
 
 <img src="https://komarev.com/ghpvc/?username=thiyagarasan6380-alt&label=Profile%20Views&color=E50914&style=for-the-badge"/>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
-

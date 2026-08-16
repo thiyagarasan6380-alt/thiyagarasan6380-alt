@@ -1,158 +1,264 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Thiyagarasan%20C&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
-
-</div>
-
-<table align="center">
-<tr>
-<td width="330" align="center" valign="top">
-
-<img src="https://raw.githubusercontent.com/thiyagarasan6380-alt/thiyagarasan6380-alt/main/assets/hex-card.svg" width="300"/>
-
-</td>
-<td width="480" valign="top">
-
-```yaml
-SYSTEM INFO
-────────────────────────────
-$whoami   : thiyagarasan
-Subject   : Thiyagarasan C
-Role      : Aspiring Full-Stack Dev
-Origin    : Tamil Nadu, India
-Education : B.Tech CS Student
-Status    : Building • Learning • Shipping
-ToolChain : VS Code, Git, Docker, Postman
-
-Core Lang     : Java, C, JavaScript
-Core Frontend : React, HTML, CSS, JavaScript
-Core Backend  : Node.js (learning), Java
-Core Database : MySQL
-Core Infra    : Git, GitHub
-
-────────────────────────────
-Contact
-Grid Mail      : thiyagarasan6380@gmail.com
-Grid LinkedIn  : /in/thiyagarasan-c-25bb2b37a
-Grid GitHub    : thiyagarasan6380-alt
-Grid Instagram : thiyagu_638
-
-────────────────────────────
-Live State
-> See live GitHub stats below in README ↓
+```
+╔════════════════════════════════════════════════════════════════════════╗
+║                                                                        ║
+║                    ⚡ DEVELOPMENT CORE ONLINE                          ║
+║                                                                        ║
+║               THIYAGARASAN C — SOFTWARE ENGINEER                      ║
+║                                                                        ║
+║              Building • Learning • Shipping                           ║
+║                                                                        ║
+║         "I'm not claiming to be an expert. I'm building my way        ║
+║                          there."                                      ║
+║                                                                        ║
+╚════════════════════════════════════════════════════════════════════════╝
 ```
 
-</td>
-</tr>
-</table>
+---
 
-<br/>
+## SYSTEM PROFILE
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│ USER        → thiyagarasan                                   │
+│ ROLE        → Full-Stack Developer in Progress               │
+│ FOCUS       → Software Engineering                           │
+│ EDUCATION   → B.Tech Computer Science (CSE-B)                │
+│ LOCATION    → Tamil Nadu, India                              │
+│                                                              │
+│ LANGUAGES   → Java • C • JavaScript                          │
+│ FRONTEND    → HTML • CSS • React                             │
+│ BACKEND     → Node.js • Java                                 │
+│ DATABASE    → MySQL                                          │
+│ TOOLS       → Git • GitHub • VS Code • Docker                │
+│                                                              │
+│ STATUS      → ACTIVE                                         │
+│ MODE        → LEARNING + BUILDING                            │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 01 // ENGINEERING FOCUS
+
+The core areas driving technical growth:
+
+```
+▸ Full-Stack Development
+  └─ End-to-end application architecture
+
+▸ Object-Oriented Programming
+  └─ Design patterns and clean code principles
+
+▸ Data Structures & Algorithms
+  └─ Problem-solving and optimization
+
+▸ Database Systems
+  └─ DBMS design and SQL fundamentals
+
+▸ Frontend Engineering
+  └─ React, component architecture, user experience
+
+▸ Software Projects
+  └─ Real-world applications that solve problems
+```
+
+---
+
+## 02 // TECH STACK
+
+**Languages**
+```
+Java  •  C  •  JavaScript
+```
+
+**Frontend**
+```
+HTML  •  CSS  •  React
+```
+
+**Backend**
+```
+Node.js  •  Java
+```
+
+**Database**
+```
+MySQL
+```
+
+**Tools & Infrastructure**
+```
+Git  •  GitHub  •  VS Code  •  Docker  •  Postman
+```
+
+---
+
+## 03 // PROJECTS
+
+### Personal Portfolio Website
+─────────────────────────────────────
+
+Responsive portfolio built with HTML & CSS. Clean, professional design focused on showcasing work.
+
+**STACK** → HTML • CSS • Responsive Design  
+**STATUS** → Completed  
+**REPO** → [View Repository](https://github.com/thiyagarasan6380-alt/Portfolio)
+
+---
+
+### React Learning Projects
+─────────────────────────────────────
+
+Hands-on exploration of React fundamentals — components, hooks, state management, and modern JavaScript patterns.
+
+**STACK** → React • JavaScript • Modern ES6+  
+**STATUS** → Ongoing  
+**FOCUS** → Component design, state handling, API integration
+
+---
+
+### Student Skill Exchange Platform
+─────────────────────────────────────
+
+Java OOP-based platform connecting students who teach skills with students who want to learn. Built with automated skill matching and learning session coordination.
+
+**ARCHITECTURE**
+
+```
+STUDENT PROFILE
+      ↓
+ SKILL OFFER/REQUEST
+      ↓
+ MATCHING ENGINE
+      ↓
+    MATCH FOUND
+      ↓
+LEARNING SESSION
+```
+
+**STACK** → Java • OOP • MySQL • System Design  
+**STATUS** → Active Group Project  
+**HIGHLIGHTS** → Skill matching algorithm, database normalization, user authentication flow
+
+---
+
+### Java Applications
+─────────────────────────────────────
+
+Console-based and GUI applications demonstrating core OOP principles, design patterns, and data structure implementations.
+
+**STACK** → Java • OOP • Data Structures  
+**STATUS** → Completed Projects  
+**FOCUS** → Clean architecture, encapsulation, inheritance patterns
+
+---
+
+### Data Structures & Algorithms Practice
+─────────────────────────────────────
+
+Systematic problem-solving across core DSA topics: arrays, linked lists, trees, graphs, sorting, searching, and dynamic programming.
+
+**STACK** → Java • C • Algorithm Analysis  
+**STATUS** → Continuous Practice  
+**FOCUS** → Time/space complexity, optimization, coding interviews
+
+---
+
+## 04 // CURRENTLY LEARNING
+
+```
+→ React (advanced hooks and state management)
+→ Node.js & Express (backend development)
+→ Data Structures (advanced topics)
+→ Java OOP (design patterns and best practices)
+→ Database Systems (normalization, optimization)
+```
+
+---
+
+## 05 // NEXT TARGET
+
+```
+→ Full-Stack Applications (frontend + backend integration)
+→ Advanced DSA (graph algorithms, dynamic programming)
+→ Open Source Contributions
+→ Production-Grade Projects
+→ System Design Fundamentals
+```
+
+---
+
+## 06 // ROADMAP 2026
+
+```
+2026
+ │
+ ├─ Strengthen Java & OOP Fundamentals
+ │
+ ├─ Master React & Component Architecture
+ │
+ ├─ Learn Node.js & Express
+ │
+ ├─ Build Full-Stack Applications
+ │
+ ├─ Improve DSA Skills & Problem-Solving
+ │
+ ├─ Explore Open Source
+ │
+ └─ Secure Software Development Internship
+```
+
+---
+
+## 07 // GITHUB ACTIVITY
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/thiyagarasan-c-25bb2b37a/">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/thiyagarasan6380-alt">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:thiyagarasan6380@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiyagarasan6380-alt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9)](https://github.com/thiyagarasan6380-alt)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thiyagarasan6380-alt&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/thiyagarasan6380-alt)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiyagarasan6380-alt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9)](https://github.com/thiyagarasan6380-alt)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+---
 
-## ⚡ Tech Arsenal
+## 08 // CONNECT
+
+```
+┌──────────────────────────────────────────┐
+│                                          │
+│  GitHub    → thiyagarasan6380-alt        │
+│  LinkedIn  → thiyagarasan-c-25bb2b37a    │
+│  Email     → thiyagarasan6380@gmail.com  │
+│  Instagram → thiyagu_638                 │
+│                                          │
+└──────────────────────────────────────────┘
+```
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,java,mysql,git,github,vscode&theme=dark" />
+[GitHub](https://github.com/thiyagarasan6380-alt) • [LinkedIn](https://linkedin.com/in/thiyagarasan-c-25bb2b37a) • [Email](mailto:thiyagarasan6380@gmail.com)
 
 </div>
 
-## 📊 Learning Progress
+---
 
-<details open>
-<summary><b>Click to expand my skill bars ⚡</b></summary>
-<br>
+```
+╔════════════════════════════════════════════════════════════════════════╗
+║                                                                        ║
+║                    ⚡ BUILD SOMETHING GREAT                           ║
+║                                                                        ║
+║         "The best way to predict the future is to build it."          ║
+║                                                                        ║
+╚════════════════════════════════════════════════════════════════════════╝
+```
 
-`HTML`       ██████████ 100%
-`CSS`        ██████████ 100%
-`JavaScript` ████████░░ 80%
-`Git/GitHub` ██████░░░░ 60%
-`React`      ████░░░░░░ 40%
-`Data Structures` ████░░░░░░ 40%
-`DBMS`       ███░░░░░░░ 30%
-`Java`       █░░░░░░░░░ 10%
-
-</details>
-
-## 🔥 GitHub Stats
+---
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=thiyagarasan6380-alt&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=thiyagarasan6380-alt&theme=radical&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiyagarasan6380-alt&layout=compact&theme=radical&hide_border=true" width="48%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=thiyagarasan6380-alt&label=Profile%20Views&color=888888&style=flat-square)
 
 </div>
-
-## 🚀 Featured Projects
-
-<details open>
-<summary><b>🌐 Personal Portfolio Website</b></summary>
-<br>
-Responsive portfolio built using HTML & CSS.
-
-🔗 [View Repository](https://github.com/thiyagarasan6380-alt/Portfolio)
-</details>
-
-<details>
-<summary><b>⚛️ React Learning Projects</b></summary>
-<br>
-Hands-on projects while mastering React fundamentals — components, hooks, and state management.
-</details>
-
-<details>
-<summary><b>☕ Java Applications</b></summary>
-<br>
-Console-based Java programs demonstrating core OOP concepts.
-</details>
-
-<details>
-<summary><b>📚 DSA Practice</b></summary>
-<br>
-Problem-solving implementations across arrays, trees, graphs, and more.
-</details>
-
-## 🏆 Certifications
-
-<div align="center">
-
-![IBM](https://img.shields.io/badge/IBM%20SkillsBuild-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
-![More](https://img.shields.io/badge/More%20Coming%20Soon-E50914?style=for-the-badge)
-
-</div>
-
-## 🎯 2026 Roadmap
-
-- [ ] Master React
-- [ ] Learn Node.js & Express
-- [ ] Build 10+ Projects
-- [ ] Improve DSA Skills
-- [ ] Contribute to Open Source
-- [ ] Secure a Software Development Internship
-
-<div align="center">
-
-### Thanks for visiting my profile! ⚡
-
-<img src="https://komarev.com/ghpvc/?username=thiyagarasan6380-alt&label=Profile%20Views&color=E50914&style=for-the-badge"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>

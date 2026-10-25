@@ -1,171 +1,100 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Hi%20There!%20I'm%20Thiyagarasan%20C&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20CS%20Student%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,45:6b0000,100:ff1a1a&height=240&section=header&text=UNKNOWN%20BUILDER&fontSize=54&fontColor=ff2a2a&animation=twinkling&fontAlignY=40&desc=//%20no%20strings.%20no%20limits.%20only%20curiosity.&descAlignY=62&descSize=16&descColor=c0c0c0" width="100%" alt="Unknown Builder banner"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=E50914&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=Building+Modern+Web+Apps+%F0%9F%9A%80;Learning+React.js+%E2%9A%9B%EF%B8%8F;Mastering+Java+%26+DSA+%E2%98%95;Open+to+Internships+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&duration=2800&pause=900&color=FF1A1A&background=00000000&center=true&vCenter=true&width=700&height=50&lines=%3E+initializing+curiosity...;%3E+learning+something+new+today...;%3E+building+in+silence...;%3E+there+are+no+strings+on+me." alt="Terminal typing animation" />
 </a>
 
-<br/>
-
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-E50914?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Open%20To%20Work-success?style=for-the-badge&logo=handshake&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-India-blue?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
+---
 
-## 🧑‍💻 About Me
+## ◼ SYSTEM://IDENTITY
 
-```yaml
-name: Thiyagarasan C
-role: Computer Science Student
-passion: Building sleek, modern web applications
-currently_learning: [React.js, Java, DSA, DBMS, Git & GitHub]
-goal: Become a skilled Full Stack Developer 🚀
-fun_fact: I believe the best way to learn code is to build with it
+```text
+┌──────────────────────────────────────────────┐
+│  DESIGNATION : Thiyagarasan C                │
+│  CLASS       : Computer Science Student      │
+│  ORIGIN      : India                         │
+│  TRAIT       : Curious about everything      │
+│  DIRECTIVE   : Learn something new. Daily.   │
+│  STATUS      : ONLINE ▮▮▮▮▮▮▮▮▮▮     │
+└──────────────────────────────────────────────┘
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+> *"I was meant to be new. I was meant to be beautiful."* — Ultron
+> I don't have a single lane. I have a question, and I follow it.
 
-## ⚡ Tech Arsenal
+---
 
-<div align="center">
+## ◼ THE BUILDER
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,java,mysql,git,github,vscode&theme=dark" /><br><br>
+A figure in the dark, a screen glowing, a thing slowly taking shape.
+No spotlight, no noise. Just curiosity and a build in progress.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+```text
+> who_am_i     : someone who never stops asking "how does this work?"
+> what_i_do    : take it apart, understand it, build my own version
+> why          : because the best way to learn is to build
+> next_move    : [ CLASSIFIED ]
+```
 
-</div>
+---
 
-## 📊 Learning Progress
+## ◼ PROTOCOLS
 
-<details open>
-<summary><b>Click to expand my skill bars ⚡</b></summary>
-<br>
+```text
+[01] Stay curious. About everything.
+[02] Learn something new every single day.
+[03] Break it. Fix it. Understand it.
+[04] Build quietly. Let the work speak.
+[05] Every failure is data. Every bug is a teacher.
+```
 
-`HTML`      ██████████ 100%
-`CSS`       ██████████ 100%
-`JavaScript`████████░░ 80%
-`Git/GitHub`██████░░░░ 60%
-`React`     ████░░░░░░ 40%
-`Java`      ████░░░░░░ 40%
-`DBMS`      ████░░░░░░ 40%
-`DSA`       ████░░░░░░ 40%
+---
 
-</details>
+## ◼ ACTIVE BUILD LOG
 
-## 🔥 GitHub Stats
+```yaml
+current_mode : Explore → Build → Break → Improve
+today        : Learning something new
+tomorrow     : Learning something newer
+progress     : Never finished. Always evolving.
+```
 
-<div align="center">
+**🌐 Portfolio**: one of my builds.
+🔗 [Access Repository](https://github.com/thiyagarasan6380-alt/Portfolio)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=thiyagarasan6380-alt&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=thiyagarasan6380-alt&theme=radical&hide_border=true"/>
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiyagarasan6380-alt&layout=compact&theme=radical&hide_border=true" width="48%"/>
-
-</div>
-
-> ⚠️ Note: The activity-graph widget was removed here — its shared public server has been unreliable/down for many users lately. The snake animation below is a more dependable alternative.
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%"/>
-</div>
-
-> 💡 To activate the snake animation above, add the [platane/snk](https://github.com/Platane/snk) GitHub Action to your repo — it auto-generates and commits this SVG daily.
-
-## 🚀 Featured Projects
-
-<details open>
-<summary><b>🌐 Personal Portfolio Website</b></summary>
-<br>
-Responsive portfolio built using HTML & CSS.
-
-🔗 [View Repository](https://github.com/thiyagarasan6380-alt/Portfolio)
-</details>
-
-<details>
-<summary><b>⚛️ React Learning Projects</b></summary>
-<br>
-Hands-on projects while mastering React fundamentals — components, hooks, and state management.
-</details>
-
-<details>
-<summary><b>☕ Java Applications</b></summary>
-<br>
-Console-based Java programs demonstrating core OOP concepts.
-</details>
-
-<details>
-<summary><b>📚 DSA Practice</b></summary>
-<br>
-Problem-solving implementations across arrays, trees, graphs, and more.
-</details>
-
-## 🏆 Certifications
-
-<div align="center">
-
-![IBM](https://img.shields.io/badge/IBM%20SkillsBuild-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
-![More](https://img.shields.io/badge/More%20Coming%20Soon-E50914?style=for-the-badge)
-
-</div>
-
-## 🎯 2026 Roadmap
-
-- [x] Master React
-- [x] Learn Node.js & Express
-- [ ] Build 10+ Projects
-- [ ] Improve DSA Skills
-- [ ] Contribute to Open Source
-- [ ] Secure a Software Development Internship
-
-## 🌐 Connect With Me
+## ◼ ESTABLISH CONNECTION
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/thiyagarasan-c-25bb2b37a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ff1a1a" alt="LinkedIn"/>
 </a>
 <a href="https://instagram.com/thiyagu_638">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-0d0d0d?style=for-the-badge&logo=instagram&logoColor=ff1a1a" alt="Instagram"/>
 </a>
 <a href="mailto:thiyagarasan6380@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ff1a1a" alt="Email"/>
 </a>
 
 </div>
 
-## 💡 Favorite Quote
+---
 
 <div align="center">
 
-*"The best way to learn programming is by building projects."*
+```text
+> transmission complete.
+> the build continues.
+```
+
+<img src="https://komarev.com/ghpvc/?username=thiyagarasan6380-alt&label=OBSERVERS&color=8b0000&labelColor=0d0d0d&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
-
-### Thanks for visiting my profile! ⚡
-
-If you enjoy my work, consider giving my repositories a ⭐
-
-**Happy Coding! 🚀**
-
-<img src="https://komarev.com/ghpvc/?username=thiyagarasan6380-alt&label=Profile%20Views&color=E50914&style=for-the-badge"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff1a1a,55:6b0000,100:050505&height=110&section=footer" width="100%" alt="footer"/>

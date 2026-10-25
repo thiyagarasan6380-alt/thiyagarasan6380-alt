@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,45:6b0000,100:ff1a1a&height=240&section=header&text=UNKNOWN%20BUILDER&fontSize=54&fontColor=ff2a2a&animation=twinkling&fontAlignY=40&desc=//%20no%20strings.%20no%20limits.%20only%20curiosity.&descAlignY=62&descSize=16&descColor=c0c0c0" width="100%" alt="Unknown Builder banner"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&duration=2800&pause=900&color=FF1A1A&background=00000000&center=true&vCenter=true&width=700&height=50&lines=%3E+initializing+curiosity...;%3E+learning+something+new+today...;%3E+building+in+silence...;%3E+there+are+no+strings+on+me." alt="Terminal typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&duration=2800&pause=900&color=FF1A1A&background=00000000&center=true&vCenter=true&width=750&height=50&lines=%3E+initializing+curiosity...;%3E+learning+something+new+today...;%3E+%E2%88%AB+integrating+ideas...+d%2Fdx+differentiating+problems...;%3E+solving+logic+puzzles+for+fun...;%3E+building+in+silence...;%3E+there+are+no+strings+on+me." alt="Terminal typing animation" />
 </a>
 
 </div>
@@ -13,14 +13,15 @@
 ## ◼ SYSTEM://IDENTITY
 
 ```text
-┌──────────────────────────────────────────────┐
-│  DESIGNATION : Thiyagarasan C                │
-│  CLASS       : Computer Science Student      │
-│  ORIGIN      : India                         │
-│  TRAIT       : Curious about everything      │
-│  DIRECTIVE   : Learn something new. Daily.   │
-│  STATUS      : ONLINE ▮▮▮▮▮▮▮▮▮▮     │
-└──────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────┐
+│  DESIGNATION : Thiyagarasan C                      │
+│  CLASS       : Computer Science Student            │
+│  ORIGIN      : India                               │
+│  TRAIT       : Curious about everything            │
+│  OBSESSIONS  : Math ∫ d/dx · Logic · Building      │
+│  DIRECTIVE   : Learn something new. Daily.         │
+│  STATUS      : ONLINE ▮▮▮▮▮▮▮▮▮▮           │
+└────────────────────────────────────────────────────┘
 ```
 
 > *"I was meant to be new. I was meant to be beautiful."* — Ultron
@@ -42,14 +43,31 @@ No spotlight, no noise. Just curiosity and a build in progress.
 
 ---
 
+## ◼ OBSESSIONS
+
+```text
+∫  INTEGRATION       : adding up the infinitely small to see the whole picture
+d/dx DIFFERENTIATION : catching the exact rate of change at a single instant
+⊢  LOGIC             : clean reasoning, patterns, and puzzles that make me think
+```
+
+```math
+\int_{0}^{\infty} e^{-x}\,dx = 1 \qquad \frac{d}{dx}\left(e^{x}\right) = e^{x}
+```
+
+*Some things are beautiful because they never change when you transform them.*
+
+---
+
 ## ◼ PROTOCOLS
 
 ```text
 [01] Stay curious. About everything.
 [02] Learn something new every single day.
 [03] Break it. Fix it. Understand it.
-[04] Build quietly. Let the work speak.
-[05] Every failure is data. Every bug is a teacher.
+[04] Think in logic. Prove it, don't assume it.
+[05] Build quietly. Let the work speak.
+[06] Every failure is data. Every bug is a teacher.
 ```
 
 ---
